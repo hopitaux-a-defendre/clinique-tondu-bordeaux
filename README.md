@@ -8,6 +8,6 @@ Les _pull requests_ sont bienvenues pour ajouter des articles ou des fonctionnal
     invoke publish -- -D
 
 Le _repository_ [pelican-plugins](https://github.com/getpelican/pelican-plugins)
-doit être péesent dans le dossier parent.
+doit être présent dans le dossier parent.
 
 Le thème employé est [html5-dopetrope](https://github.com/Lucas-C/html5-dopetrope).

@@ -31,6 +31,7 @@ ABOUT_IMAGE = META_IMAGE
 LINKS = (
     ("Cagnotte leetchi - Soignants du Tondu maltraités", "https://www.leetchi.com/c/soignants-du-tondu-maltraites"),
     ("Tweets @RevPermanente à propos de la clinique du Tondu", "https://nitter.lacontrevoie.fr/RevPermanente/search?q=tondu"),
+    ("Sources de ce site web @GitHub", "https://github.com/hopitaux-a-defendre/clinique-tondu-bordeaux"),
 )
 
 CUSTOM_CSS = '''
