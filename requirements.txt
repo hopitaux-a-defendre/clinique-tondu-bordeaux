@@ -1,0 +1,7 @@
+beautifulsoup4
+invoke
+livereload
+markdown
+pelican
+pillow
+py_w3c
